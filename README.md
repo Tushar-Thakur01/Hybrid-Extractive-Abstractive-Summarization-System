@@ -44,6 +44,10 @@ This project explores multiple text summarization strategies to understand how d
 ---
 
 ## 📊 Results (Concise)
+<img width="1014" height="534" alt="download (27)" src="https://github.com/user-attachments/assets/04a14835-d8f8-4773-8cd9-57785c5a5bab" />
+<img width="1014" height="534" alt="download (30)" src="https://github.com/user-attachments/assets/2544b21d-4679-4f18-8bab-ca3b2c674090" />
+<img width="786" height="453" alt="download (29)" src="https://github.com/user-attachments/assets/02940c38-06b0-481c-b750-e6ee0ae39b2d" />
+
 
 > **Hybrid DistilBART** is the overall winner across ROUGE and BERTScore.
 
@@ -57,6 +61,7 @@ This project explores multiple text summarization strategies to understand how d
 
 <details>
 <summary><strong>See full metrics (formatted)</strong></summary>
+
 
 #### Extractive
 ROUGE-1: 0.2145 | ROUGE-2: 0.0894
